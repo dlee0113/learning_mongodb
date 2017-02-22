@@ -1,0 +1,249 @@
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000000" }, "Country" : "Afghanistan", "ISO2" : "AF", "ISO3" : "AFG", "ISO_Num" : "4", "ISO_Other" : "ISO 3166-2:AF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000001" }, "Country" : "Albania", "ISO2" : "AL", "ISO3" : "ALB", "ISO_Num" : "8", "ISO_Other" : "ISO 3166-2:AL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000002" }, "Country" : "Antarctica", "ISO2" : "AQ", "ISO3" : "ATA", "ISO_Num" : "10", "ISO_Other" : "ISO 3166-2:AQ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000003" }, "Country" : "Algeria", "ISO2" : "DZ", "ISO3" : "DZA", "ISO_Num" : "12", "ISO_Other" : "ISO 3166-2:DZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000004" }, "Country" : "American Samoa", "ISO2" : "AS", "ISO3" : "ASM", "ISO_Num" : "16", "ISO_Other" : "ISO 3166-2:AS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000005" }, "Country" : "Andorra", "ISO2" : "AD", "ISO3" : "AND", "ISO_Num" : "20", "ISO_Other" : "ISO 3166-2:AD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000006" }, "Country" : "Angola", "ISO2" : "AO", "ISO3" : "AGO", "ISO_Num" : "24", "ISO_Other" : "ISO 3166-2:AO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000007" }, "Country" : "Antigua and Barbuda", "ISO2" : "AG", "ISO3" : "ATG", "ISO_Num" : "28", "ISO_Other" : "ISO 3166-2:AG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000008" }, "Country" : "Azerbaijan", "ISO2" : "AZ", "ISO3" : "AZE", "ISO_Num" : "31", "ISO_Other" : "ISO 3166-2:AZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000009" }, "Country" : "Argentina", "ISO2" : "AR", "ISO3" : "ARG", "ISO_Num" : "32", "ISO_Other" : "ISO 3166-2:AR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000a" }, "Country" : "Australia", "ISO2" : "AU", "ISO3" : "AUS", "ISO_Num" : "36", "ISO_Other" : "ISO 3166-2:AU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000b" }, "Country" : "Austria", "ISO2" : "AT", "ISO3" : "AUT", "ISO_Num" : "40", "ISO_Other" : "ISO 3166-2:AT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000c" }, "Country" : "Bahamas", "ISO2" : "BS", "ISO3" : "BHS", "ISO_Num" : "44", "ISO_Other" : "ISO 3166-2:BS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000d" }, "Country" : "Bahrain", "ISO2" : "BH", "ISO3" : "BHR", "ISO_Num" : "48", "ISO_Other" : "ISO 3166-2:BH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000e" }, "Country" : "Bangladesh", "ISO2" : "BD", "ISO3" : "BGD", "ISO_Num" : "50", "ISO_Other" : "ISO 3166-2:BD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200000f" }, "Country" : "Armenia", "ISO2" : "AM", "ISO3" : "ARM", "ISO_Num" : "51", "ISO_Other" : "ISO 3166-2:AM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000010" }, "Country" : "Barbados", "ISO2" : "BB", "ISO3" : "BRB", "ISO_Num" : "52", "ISO_Other" : "ISO 3166-2:BB" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000011" }, "Country" : "Belgium", "ISO2" : "BE", "ISO3" : "BEL", "ISO_Num" : "56", "ISO_Other" : "ISO 3166-2:BE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000012" }, "Country" : "Bermuda", "ISO2" : "BM", "ISO3" : "BMU", "ISO_Num" : "60", "ISO_Other" : "ISO 3166-2:BM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000013" }, "Country" : "Bhutan", "ISO2" : "BT", "ISO3" : "BTN", "ISO_Num" : "64", "ISO_Other" : "ISO 3166-2:BT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000014" }, "Country" : "Bolivia, Plurinational State of", "ISO2" : "BO", "ISO3" : "BOL", "ISO_Num" : "68", "ISO_Other" : "ISO 3166-2:BO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000015" }, "Country" : "Bosnia and Herzegovina", "ISO2" : "BA", "ISO3" : "BIH", "ISO_Num" : "70", "ISO_Other" : "ISO 3166-2:BA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000016" }, "Country" : "Botswana", "ISO2" : "BW", "ISO3" : "BWA", "ISO_Num" : "72", "ISO_Other" : "ISO 3166-2:BW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000017" }, "Country" : "Bouvet Island", "ISO2" : "BV", "ISO3" : "BVT", "ISO_Num" : "74", "ISO_Other" : "ISO 3166-2:BV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000018" }, "Country" : "Brazil", "ISO2" : "BR", "ISO3" : "BRA", "ISO_Num" : "76", "ISO_Other" : "ISO 3166-2:BR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000019" }, "Country" : "Belize", "ISO2" : "BZ", "ISO3" : "BLZ", "ISO_Num" : "84", "ISO_Other" : "ISO 3166-2:BZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001a" }, "Country" : "British Indian Ocean Territory", "ISO2" : "IO", "ISO3" : "IOT", "ISO_Num" : "86", "ISO_Other" : "ISO 3166-2:IO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001b" }, "Country" : "Solomon Islands", "ISO2" : "SB", "ISO3" : "SLB", "ISO_Num" : "90", "ISO_Other" : "ISO 3166-2:SB" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001c" }, "Country" : "Virgin Islands, British", "ISO2" : "VG", "ISO3" : "VGB", "ISO_Num" : "92", "ISO_Other" : "ISO 3166-2:VG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001d" }, "Country" : "Brunei Darussalam", "ISO2" : "BN", "ISO3" : "BRN", "ISO_Num" : "96", "ISO_Other" : "ISO 3166-2:BN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001e" }, "Country" : "Bulgaria", "ISO2" : "BG", "ISO3" : "BGR", "ISO_Num" : "100", "ISO_Other" : "ISO 3166-2:BG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200001f" }, "Country" : "Myanmar", "ISO2" : "MM", "ISO3" : "MMR", "ISO_Num" : "104", "ISO_Other" : "ISO 3166-2:MM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000020" }, "Country" : "Burundi", "ISO2" : "BI", "ISO3" : "BDI", "ISO_Num" : "108", "ISO_Other" : "ISO 3166-2:BI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000021" }, "Country" : "Belarus", "ISO2" : "BY", "ISO3" : "BLR", "ISO_Num" : "112", "ISO_Other" : "ISO 3166-2:BY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000022" }, "Country" : "Cambodia", "ISO2" : "KH", "ISO3" : "KHM", "ISO_Num" : "116", "ISO_Other" : "ISO 3166-2:KH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000023" }, "Country" : "Cameroon", "ISO2" : "CM", "ISO3" : "CMR", "ISO_Num" : "120", "ISO_Other" : "ISO 3166-2:CM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000024" }, "Country" : "Canada", "ISO2" : "CA", "ISO3" : "CAN", "ISO_Num" : "124", "ISO_Other" : "ISO 3166-2:CA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000025" }, "Country" : "Cape Verde", "ISO2" : "CV", "ISO3" : "CPV", "ISO_Num" : "132", "ISO_Other" : "ISO 3166-2:CV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000026" }, "Country" : "Cayman Islands", "ISO2" : "KY", "ISO3" : "CYM", "ISO_Num" : "136", "ISO_Other" : "ISO 3166-2:KY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000027" }, "Country" : "Central African Republic", "ISO2" : "CF", "ISO3" : "CAF", "ISO_Num" : "140", "ISO_Other" : "ISO 3166-2:CF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000028" }, "Country" : "Sri Lanka", "ISO2" : "LK", "ISO3" : "LKA", "ISO_Num" : "144", "ISO_Other" : "ISO 3166-2:LK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000029" }, "Country" : "Chad", "ISO2" : "TD", "ISO3" : "TCD", "ISO_Num" : "148", "ISO_Other" : "ISO 3166-2:TD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002a" }, "Country" : "Chile", "ISO2" : "CL", "ISO3" : "CHL", "ISO_Num" : "152", "ISO_Other" : "ISO 3166-2:CL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002b" }, "Country" : "China", "ISO2" : "CN", "ISO3" : "CHN", "ISO_Num" : "156", "ISO_Other" : "ISO 3166-2:CN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002c" }, "Country" : "Taiwan, Province of China", "ISO2" : "TW", "ISO3" : "TWN", "ISO_Num" : "158", "ISO_Other" : "ISO 3166-2:TW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002d" }, "Country" : "Christmas Island", "ISO2" : "CX", "ISO3" : "CXR", "ISO_Num" : "162", "ISO_Other" : "ISO 3166-2:CX" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002e" }, "Country" : "Cocos (Keeling) Islands", "ISO2" : "CC", "ISO3" : "CCK", "ISO_Num" : "166", "ISO_Other" : "ISO 3166-2:CC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200002f" }, "Country" : "Colombia", "ISO2" : "CO", "ISO3" : "COL", "ISO_Num" : "170", "ISO_Other" : "ISO 3166-2:CO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000030" }, "Country" : "Comoros", "ISO2" : "KM", "ISO3" : "COM", "ISO_Num" : "174", "ISO_Other" : "ISO 3166-2:KM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000031" }, "Country" : "Mayotte", "ISO2" : "YT", "ISO3" : "MYT", "ISO_Num" : "175", "ISO_Other" : "ISO 3166-2:YT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000032" }, "Country" : "Congo", "ISO2" : "CG", "ISO3" : "COG", "ISO_Num" : "178", "ISO_Other" : "ISO 3166-2:CG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000033" }, "Country" : "Congo, the Democratic Republic of the", "ISO2" : "CD", "ISO3" : "COD", "ISO_Num" : "180", "ISO_Other" : "ISO 3166-2:CD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000034" }, "Country" : "Cook Islands", "ISO2" : "CK", "ISO3" : "COK", "ISO_Num" : "184", "ISO_Other" : "ISO 3166-2:CK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000035" }, "Country" : "Costa Rica", "ISO2" : "CR", "ISO3" : "CRI", "ISO_Num" : "188", "ISO_Other" : "ISO 3166-2:CR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000036" }, "Country" : "Croatia", "ISO2" : "HR", "ISO3" : "HRV", "ISO_Num" : "191", "ISO_Other" : "ISO 3166-2:HR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000037" }, "Country" : "Cuba", "ISO2" : "CU", "ISO3" : "CUB", "ISO_Num" : "192", "ISO_Other" : "ISO 3166-2:CU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000038" }, "Country" : "Cyprus", "ISO2" : "CY", "ISO3" : "CYP", "ISO_Num" : "196", "ISO_Other" : "ISO 3166-2:CY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000039" }, "Country" : "Czech Republic", "ISO2" : "CZ", "ISO3" : "CZE", "ISO_Num" : "203", "ISO_Other" : "ISO 3166-2:CZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003a" }, "Country" : "Benin", "ISO2" : "BJ", "ISO3" : "BEN", "ISO_Num" : "204", "ISO_Other" : "ISO 3166-2:BJ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003b" }, "Country" : "Denmark", "ISO2" : "DK", "ISO3" : "DNK", "ISO_Num" : "208", "ISO_Other" : "ISO 3166-2:DK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003c" }, "Country" : "Dominica", "ISO2" : "DM", "ISO3" : "DMA", "ISO_Num" : "212", "ISO_Other" : "ISO 3166-2:DM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003d" }, "Country" : "Dominican Republic", "ISO2" : "DO", "ISO3" : "DOM", "ISO_Num" : "214", "ISO_Other" : "ISO 3166-2:DO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003e" }, "Country" : "Ecuador", "ISO2" : "EC", "ISO3" : "ECU", "ISO_Num" : "218", "ISO_Other" : "ISO 3166-2:EC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200003f" }, "Country" : "El Salvador", "ISO2" : "SV", "ISO3" : "SLV", "ISO_Num" : "222", "ISO_Other" : "ISO 3166-2:SV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000040" }, "Country" : "Equatorial Guinea", "ISO2" : "GQ", "ISO3" : "GNQ", "ISO_Num" : "226", "ISO_Other" : "ISO 3166-2:GQ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000041" }, "Country" : "Ethiopia", "ISO2" : "ET", "ISO3" : "ETH", "ISO_Num" : "231", "ISO_Other" : "ISO 3166-2:ET" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000042" }, "Country" : "Eritrea", "ISO2" : "ER", "ISO3" : "ERI", "ISO_Num" : "232", "ISO_Other" : "ISO 3166-2:ER" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000043" }, "Country" : "Estonia", "ISO2" : "EE", "ISO3" : "EST", "ISO_Num" : "233", "ISO_Other" : "ISO 3166-2:EE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000044" }, "Country" : "Faroe Islands", "ISO2" : "FO", "ISO3" : "FRO", "ISO_Num" : "234", "ISO_Other" : "ISO 3166-2:FO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000045" }, "Country" : "Falkland Islands (Malvinas)", "ISO2" : "FK", "ISO3" : "FLK", "ISO_Num" : "238", "ISO_Other" : "ISO 3166-2:FK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000046" }, "Country" : "South Georgia and the South Sandwich Islands", "ISO2" : "GS", "ISO3" : "SGS", "ISO_Num" : "239", "ISO_Other" : "ISO 3166-2:GS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000047" }, "Country" : "Fiji", "ISO2" : "FJ", "ISO3" : "FJI", "ISO_Num" : "242", "ISO_Other" : "ISO 3166-2:FJ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000048" }, "Country" : "Finland", "ISO2" : "FI", "ISO3" : "FIN", "ISO_Num" : "246", "ISO_Other" : "ISO 3166-2:FI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000049" }, "Country" : "Åland Islands", "ISO2" : "AX", "ISO3" : "ALA", "ISO_Num" : "248", "ISO_Other" : "ISO 3166-2:AX" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004a" }, "Country" : "France", "ISO2" : "FR", "ISO3" : "FRA", "ISO_Num" : "250", "ISO_Other" : "ISO 3166-2:FR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004b" }, "Country" : "French Guiana", "ISO2" : "GF", "ISO3" : "GUF", "ISO_Num" : "254", "ISO_Other" : "ISO 3166-2:GF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004c" }, "Country" : "French Polynesia", "ISO2" : "PF", "ISO3" : "PYF", "ISO_Num" : "258", "ISO_Other" : "ISO 3166-2:PF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004d" }, "Country" : "French Southern Territories", "ISO2" : "TF", "ISO3" : "ATF", "ISO_Num" : "260", "ISO_Other" : "ISO 3166-2:TF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004e" }, "Country" : "Djibouti", "ISO2" : "DJ", "ISO3" : "DJI", "ISO_Num" : "262", "ISO_Other" : "ISO 3166-2:DJ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200004f" }, "Country" : "Gabon", "ISO2" : "GA", "ISO3" : "GAB", "ISO_Num" : "266", "ISO_Other" : "ISO 3166-2:GA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000050" }, "Country" : "Georgia", "ISO2" : "GE", "ISO3" : "GEO", "ISO_Num" : "268", "ISO_Other" : "ISO 3166-2:GE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000051" }, "Country" : "Gambia", "ISO2" : "GM", "ISO3" : "GMB", "ISO_Num" : "270", "ISO_Other" : "ISO 3166-2:GM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000052" }, "Country" : "Palestine, State of", "ISO2" : "PS", "ISO3" : "PSE", "ISO_Num" : "275", "ISO_Other" : "ISO 3166-2:PS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000053" }, "Country" : "Germany", "ISO2" : "DE", "ISO3" : "DEU", "ISO_Num" : "276", "ISO_Other" : "ISO 3166-2:DE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000054" }, "Country" : "Ghana", "ISO2" : "GH", "ISO3" : "GHA", "ISO_Num" : "288", "ISO_Other" : "ISO 3166-2:GH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000055" }, "Country" : "Gibraltar", "ISO2" : "GI", "ISO3" : "GIB", "ISO_Num" : "292", "ISO_Other" : "ISO 3166-2:GI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000056" }, "Country" : "Kiribati", "ISO2" : "KI", "ISO3" : "KIR", "ISO_Num" : "296", "ISO_Other" : "ISO 3166-2:KI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000057" }, "Country" : "Greece", "ISO2" : "GR", "ISO3" : "GRC", "ISO_Num" : "300", "ISO_Other" : "ISO 3166-2:GR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000058" }, "Country" : "Greenland", "ISO2" : "GL", "ISO3" : "GRL", "ISO_Num" : "304", "ISO_Other" : "ISO 3166-2:GL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000059" }, "Country" : "Grenada", "ISO2" : "GD", "ISO3" : "GRD", "ISO_Num" : "308", "ISO_Other" : "ISO 3166-2:GD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005a" }, "Country" : "Guadeloupe", "ISO2" : "GP", "ISO3" : "GLP", "ISO_Num" : "312", "ISO_Other" : "ISO 3166-2:GP" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005b" }, "Country" : "Guam", "ISO2" : "GU", "ISO3" : "GUM", "ISO_Num" : "316", "ISO_Other" : "ISO 3166-2:GU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005c" }, "Country" : "Guatemala", "ISO2" : "GT", "ISO3" : "GTM", "ISO_Num" : "320", "ISO_Other" : "ISO 3166-2:GT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005d" }, "Country" : "Guinea", "ISO2" : "GN", "ISO3" : "GIN", "ISO_Num" : "324", "ISO_Other" : "ISO 3166-2:GN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005e" }, "Country" : "Guyana", "ISO2" : "GY", "ISO3" : "GUY", "ISO_Num" : "328", "ISO_Other" : "ISO 3166-2:GY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200005f" }, "Country" : "Haiti", "ISO2" : "HT", "ISO3" : "HTI", "ISO_Num" : "332", "ISO_Other" : "ISO 3166-2:HT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000060" }, "Country" : "Heard Island and McDonald Islands", "ISO2" : "HM", "ISO3" : "HMD", "ISO_Num" : "334", "ISO_Other" : "ISO 3166-2:HM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000061" }, "Country" : "Holy See (Vatican City State)", "ISO2" : "VA", "ISO3" : "VAT", "ISO_Num" : "336", "ISO_Other" : "ISO 3166-2:VA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000062" }, "Country" : "Honduras", "ISO2" : "HN", "ISO3" : "HND", "ISO_Num" : "340", "ISO_Other" : "ISO 3166-2:HN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000063" }, "Country" : "Hong Kong", "ISO2" : "HK", "ISO3" : "HKG", "ISO_Num" : "344", "ISO_Other" : "ISO 3166-2:HK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000064" }, "Country" : "Hungary", "ISO2" : "HU", "ISO3" : "HUN", "ISO_Num" : "348", "ISO_Other" : "ISO 3166-2:HU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000065" }, "Country" : "Iceland", "ISO2" : "IS", "ISO3" : "ISL", "ISO_Num" : "352", "ISO_Other" : "ISO 3166-2:IS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000066" }, "Country" : "India", "ISO2" : "IN", "ISO3" : "IND", "ISO_Num" : "356", "ISO_Other" : "ISO 3166-2:IN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000067" }, "Country" : "Indonesia", "ISO2" : "ID", "ISO3" : "IDN", "ISO_Num" : "360", "ISO_Other" : "ISO 3166-2:ID" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000068" }, "Country" : "Iran, Islamic Republic of", "ISO2" : "IR", "ISO3" : "IRN", "ISO_Num" : "364", "ISO_Other" : "ISO 3166-2:IR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000069" }, "Country" : "Iraq", "ISO2" : "IQ", "ISO3" : "IRQ", "ISO_Num" : "368", "ISO_Other" : "ISO 3166-2:IQ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006a" }, "Country" : "Ireland", "ISO2" : "IE", "ISO3" : "IRL", "ISO_Num" : "372", "ISO_Other" : "ISO 3166-2:IE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006b" }, "Country" : "Israel", "ISO2" : "IL", "ISO3" : "ISR", "ISO_Num" : "376", "ISO_Other" : "ISO 3166-2:IL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006c" }, "Country" : "Italy", "ISO2" : "IT", "ISO3" : "ITA", "ISO_Num" : "380", "ISO_Other" : "ISO 3166-2:IT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006d" }, "Country" : "Côte d'Ivoire", "ISO2" : "CI", "ISO3" : "CIV", "ISO_Num" : "384", "ISO_Other" : "ISO 3166-2:CI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006e" }, "Country" : "Jamaica", "ISO2" : "JM", "ISO3" : "JAM", "ISO_Num" : "388", "ISO_Other" : "ISO 3166-2:JM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200006f" }, "Country" : "Japan", "ISO2" : "JP", "ISO3" : "JPN", "ISO_Num" : "392", "ISO_Other" : "ISO 3166-2:JP" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000070" }, "Country" : "Kazakhstan", "ISO2" : "KZ", "ISO3" : "KAZ", "ISO_Num" : "398", "ISO_Other" : "ISO 3166-2:KZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000071" }, "Country" : "Jordan", "ISO2" : "JO", "ISO3" : "JOR", "ISO_Num" : "400", "ISO_Other" : "ISO 3166-2:JO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000072" }, "Country" : "Kenya", "ISO2" : "KE", "ISO3" : "KEN", "ISO_Num" : "404", "ISO_Other" : "ISO 3166-2:KE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000073" }, "Country" : "Korea, Democratic People's Republic of", "ISO2" : "KP", "ISO3" : "PRK", "ISO_Num" : "408", "ISO_Other" : "ISO 3166-2:KP" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000074" }, "Country" : "Korea, Republic of", "ISO2" : "KR", "ISO3" : "KOR", "ISO_Num" : "410", "ISO_Other" : "ISO 3166-2:KR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000075" }, "Country" : "Kuwait", "ISO2" : "KW", "ISO3" : "KWT", "ISO_Num" : "414", "ISO_Other" : "ISO 3166-2:KW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000076" }, "Country" : "Kyrgyzstan", "ISO2" : "KG", "ISO3" : "KGZ", "ISO_Num" : "417", "ISO_Other" : "ISO 3166-2:KG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000077" }, "Country" : "Lao People's Democratic Republic", "ISO2" : "LA", "ISO3" : "LAO", "ISO_Num" : "418", "ISO_Other" : "ISO 3166-2:LA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000078" }, "Country" : "Lebanon", "ISO2" : "LB", "ISO3" : "LBN", "ISO_Num" : "422", "ISO_Other" : "ISO 3166-2:LB" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000079" }, "Country" : "Lesotho", "ISO2" : "LS", "ISO3" : "LSO", "ISO_Num" : "426", "ISO_Other" : "ISO 3166-2:LS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007a" }, "Country" : "Latvia", "ISO2" : "LV", "ISO3" : "LVA", "ISO_Num" : "428", "ISO_Other" : "ISO 3166-2:LV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007b" }, "Country" : "Liberia", "ISO2" : "LR", "ISO3" : "LBR", "ISO_Num" : "430", "ISO_Other" : "ISO 3166-2:LR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007c" }, "Country" : "Libya", "ISO2" : "LY", "ISO3" : "LBY", "ISO_Num" : "434", "ISO_Other" : "ISO 3166-2:LY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007d" }, "Country" : "Liechtenstein", "ISO2" : "LI", "ISO3" : "LIE", "ISO_Num" : "438", "ISO_Other" : "ISO 3166-2:LI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007e" }, "Country" : "Lithuania", "ISO2" : "LT", "ISO3" : "LTU", "ISO_Num" : "440", "ISO_Other" : "ISO 3166-2:LT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200007f" }, "Country" : "Luxembourg", "ISO2" : "LU", "ISO3" : "LUX", "ISO_Num" : "442", "ISO_Other" : "ISO 3166-2:LU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000080" }, "Country" : "Macao", "ISO2" : "MO", "ISO3" : "MAC", "ISO_Num" : "446", "ISO_Other" : "ISO 3166-2:MO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000081" }, "Country" : "Madagascar", "ISO2" : "MG", "ISO3" : "MDG", "ISO_Num" : "450", "ISO_Other" : "ISO 3166-2:MG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000082" }, "Country" : "Malawi", "ISO2" : "MW", "ISO3" : "MWI", "ISO_Num" : "454", "ISO_Other" : "ISO 3166-2:MW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000083" }, "Country" : "Malaysia", "ISO2" : "MY", "ISO3" : "MYS", "ISO_Num" : "458", "ISO_Other" : "ISO 3166-2:MY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000084" }, "Country" : "Maldives", "ISO2" : "MV", "ISO3" : "MDV", "ISO_Num" : "462", "ISO_Other" : "ISO 3166-2:MV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000085" }, "Country" : "Mali", "ISO2" : "ML", "ISO3" : "MLI", "ISO_Num" : "466", "ISO_Other" : "ISO 3166-2:ML" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000086" }, "Country" : "Malta", "ISO2" : "MT", "ISO3" : "MLT", "ISO_Num" : "470", "ISO_Other" : "ISO 3166-2:MT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000087" }, "Country" : "Martinique", "ISO2" : "MQ", "ISO3" : "MTQ", "ISO_Num" : "474", "ISO_Other" : "ISO 3166-2:MQ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000088" }, "Country" : "Mauritania", "ISO2" : "MR", "ISO3" : "MRT", "ISO_Num" : "478", "ISO_Other" : "ISO 3166-2:MR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000089" }, "Country" : "Mauritius", "ISO2" : "MU", "ISO3" : "MUS", "ISO_Num" : "480", "ISO_Other" : "ISO 3166-2:MU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008a" }, "Country" : "Mexico", "ISO2" : "MX", "ISO3" : "MEX", "ISO_Num" : "484", "ISO_Other" : "ISO 3166-2:MX" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008b" }, "Country" : "Monaco", "ISO2" : "MC", "ISO3" : "MCO", "ISO_Num" : "492", "ISO_Other" : "ISO 3166-2:MC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008c" }, "Country" : "Mongolia", "ISO2" : "MN", "ISO3" : "MNG", "ISO_Num" : "496", "ISO_Other" : "ISO 3166-2:MN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008d" }, "Country" : "Moldova, Republic of", "ISO2" : "MD", "ISO3" : "MDA", "ISO_Num" : "498", "ISO_Other" : "ISO 3166-2:MD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008e" }, "Country" : "Montenegro", "ISO2" : "ME", "ISO3" : "MNE", "ISO_Num" : "499", "ISO_Other" : "ISO 3166-2:ME" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200008f" }, "Country" : "Montserrat", "ISO2" : "MS", "ISO3" : "MSR", "ISO_Num" : "500", "ISO_Other" : "ISO 3166-2:MS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000090" }, "Country" : "Morocco", "ISO2" : "MA", "ISO3" : "MAR", "ISO_Num" : "504", "ISO_Other" : "ISO 3166-2:MA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000091" }, "Country" : "Mozambique", "ISO2" : "MZ", "ISO3" : "MOZ", "ISO_Num" : "508", "ISO_Other" : "ISO 3166-2:MZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000092" }, "Country" : "Oman", "ISO2" : "OM", "ISO3" : "OMN", "ISO_Num" : "512", "ISO_Other" : "ISO 3166-2:OM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000093" }, "Country" : "Namibia", "ISO2" : "NA", "ISO3" : "NAM", "ISO_Num" : "516", "ISO_Other" : "ISO 3166-2:NA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000094" }, "Country" : "Nauru", "ISO2" : "NR", "ISO3" : "NRU", "ISO_Num" : "520", "ISO_Other" : "ISO 3166-2:NR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000095" }, "Country" : "Nepal", "ISO2" : "NP", "ISO3" : "NPL", "ISO_Num" : "524", "ISO_Other" : "ISO 3166-2:NP" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000096" }, "Country" : "Netherlands", "ISO2" : "NL", "ISO3" : "NLD", "ISO_Num" : "528", "ISO_Other" : "ISO 3166-2:NL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000097" }, "Country" : "Curaçao", "ISO2" : "CW", "ISO3" : "CUW", "ISO_Num" : "531", "ISO_Other" : "ISO 3166-2:CW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000098" }, "Country" : "Aruba", "ISO2" : "AW", "ISO3" : "ABW", "ISO_Num" : "533", "ISO_Other" : "ISO 3166-2:AW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a852000099" }, "Country" : "Sint Maarten (Dutch part)", "ISO2" : "SX", "ISO3" : "SXM", "ISO_Num" : "534", "ISO_Other" : "ISO 3166-2:SX" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009a" }, "Country" : "Bonaire, Sint Eustatius and Saba", "ISO2" : "BQ", "ISO3" : "BES", "ISO_Num" : "535", "ISO_Other" : "ISO 3166-2:BQ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009b" }, "Country" : "New Caledonia", "ISO2" : "NC", "ISO3" : "NCL", "ISO_Num" : "540", "ISO_Other" : "ISO 3166-2:NC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009c" }, "Country" : "Vanuatu", "ISO2" : "VU", "ISO3" : "VUT", "ISO_Num" : "548", "ISO_Other" : "ISO 3166-2:VU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009d" }, "Country" : "New Zealand", "ISO2" : "NZ", "ISO3" : "NZL", "ISO_Num" : "554", "ISO_Other" : "ISO 3166-2:NZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009e" }, "Country" : "Nicaragua", "ISO2" : "NI", "ISO3" : "NIC", "ISO_Num" : "558", "ISO_Other" : "ISO 3166-2:NI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a85200009f" }, "Country" : "Niger", "ISO2" : "NE", "ISO3" : "NER", "ISO_Num" : "562", "ISO_Other" : "ISO 3166-2:NE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a0" }, "Country" : "Nigeria", "ISO2" : "NG", "ISO3" : "NGA", "ISO_Num" : "566", "ISO_Other" : "ISO 3166-2:NG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a1" }, "Country" : "Niue", "ISO2" : "NU", "ISO3" : "NIU", "ISO_Num" : "570", "ISO_Other" : "ISO 3166-2:NU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a2" }, "Country" : "Norfolk Island", "ISO2" : "NF", "ISO3" : "NFK", "ISO_Num" : "574", "ISO_Other" : "ISO 3166-2:NF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a3" }, "Country" : "Norway", "ISO2" : "NO", "ISO3" : "NOR", "ISO_Num" : "578", "ISO_Other" : "ISO 3166-2:NO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a4" }, "Country" : "Northern Mariana Islands", "ISO2" : "MP", "ISO3" : "MNP", "ISO_Num" : "580", "ISO_Other" : "ISO 3166-2:MP" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a5" }, "Country" : "United States Minor Outlying Islands", "ISO2" : "UM", "ISO3" : "UMI", "ISO_Num" : "581", "ISO_Other" : "ISO 3166-2:UM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a6" }, "Country" : "Micronesia, Federated States of", "ISO2" : "FM", "ISO3" : "FSM", "ISO_Num" : "583", "ISO_Other" : "ISO 3166-2:FM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a7" }, "Country" : "Marshall Islands", "ISO2" : "MH", "ISO3" : "MHL", "ISO_Num" : "584", "ISO_Other" : "ISO 3166-2:MH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a8" }, "Country" : "Palau", "ISO2" : "PW", "ISO3" : "PLW", "ISO_Num" : "585", "ISO_Other" : "ISO 3166-2:PW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000a9" }, "Country" : "Pakistan", "ISO2" : "PK", "ISO3" : "PAK", "ISO_Num" : "586", "ISO_Other" : "ISO 3166-2:PK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000aa" }, "Country" : "Panama", "ISO2" : "PA", "ISO3" : "PAN", "ISO_Num" : "591", "ISO_Other" : "ISO 3166-2:PA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ab" }, "Country" : "Papua New Guinea", "ISO2" : "PG", "ISO3" : "PNG", "ISO_Num" : "598", "ISO_Other" : "ISO 3166-2:PG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ac" }, "Country" : "Paraguay", "ISO2" : "PY", "ISO3" : "PRY", "ISO_Num" : "600", "ISO_Other" : "ISO 3166-2:PY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ad" }, "Country" : "Peru", "ISO2" : "PE", "ISO3" : "PER", "ISO_Num" : "604", "ISO_Other" : "ISO 3166-2:PE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ae" }, "Country" : "Philippines", "ISO2" : "PH", "ISO3" : "PHL", "ISO_Num" : "608", "ISO_Other" : "ISO 3166-2:PH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000af" }, "Country" : "Pitcairn", "ISO2" : "PN", "ISO3" : "PCN", "ISO_Num" : "612", "ISO_Other" : "ISO 3166-2:PN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b0" }, "Country" : "Poland", "ISO2" : "PL", "ISO3" : "POL", "ISO_Num" : "616", "ISO_Other" : "ISO 3166-2:PL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b1" }, "Country" : "Portugal", "ISO2" : "PT", "ISO3" : "PRT", "ISO_Num" : "620", "ISO_Other" : "ISO 3166-2:PT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b2" }, "Country" : "Guinea-Bissau", "ISO2" : "GW", "ISO3" : "GNB", "ISO_Num" : "624", "ISO_Other" : "ISO 3166-2:GW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b3" }, "Country" : "Timor-Leste", "ISO2" : "TL", "ISO3" : "TLS", "ISO_Num" : "626", "ISO_Other" : "ISO 3166-2:TL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b4" }, "Country" : "Puerto Rico", "ISO2" : "PR", "ISO3" : "PRI", "ISO_Num" : "630", "ISO_Other" : "ISO 3166-2:PR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b5" }, "Country" : "Qatar", "ISO2" : "QA", "ISO3" : "QAT", "ISO_Num" : "634", "ISO_Other" : "ISO 3166-2:QA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b6" }, "Country" : "Réunion", "ISO2" : "RE", "ISO3" : "REU", "ISO_Num" : "638", "ISO_Other" : "ISO 3166-2:RE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b7" }, "Country" : "Romania", "ISO2" : "RO", "ISO3" : "ROU", "ISO_Num" : "642", "ISO_Other" : "ISO 3166-2:RO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b8" }, "Country" : "Russian Federation", "ISO2" : "RU", "ISO3" : "RUS", "ISO_Num" : "643", "ISO_Other" : "ISO 3166-2:RU" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000b9" }, "Country" : "Rwanda", "ISO2" : "RW", "ISO3" : "RWA", "ISO_Num" : "646", "ISO_Other" : "ISO 3166-2:RW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ba" }, "Country" : "Saint Barthélemy", "ISO2" : "BL", "ISO3" : "BLM", "ISO_Num" : "652", "ISO_Other" : "ISO 3166-2:BL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000bb" }, "Country" : "Saint Helena, Ascension and Tristan da Cunha", "ISO2" : "SH", "ISO3" : "SHN", "ISO_Num" : "654", "ISO_Other" : "ISO 3166-2:SH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000bc" }, "Country" : "Saint Kitts and Nevis", "ISO2" : "KN", "ISO3" : "KNA", "ISO_Num" : "659", "ISO_Other" : "ISO 3166-2:KN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000bd" }, "Country" : "Anguilla", "ISO2" : "AI", "ISO3" : "AIA", "ISO_Num" : "660", "ISO_Other" : "ISO 3166-2:AI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000be" }, "Country" : "Saint Lucia", "ISO2" : "LC", "ISO3" : "LCA", "ISO_Num" : "662", "ISO_Other" : "ISO 3166-2:LC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000bf" }, "Country" : "Saint Martin (French part)", "ISO2" : "MF", "ISO3" : "MAF", "ISO_Num" : "663", "ISO_Other" : "ISO 3166-2:MF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c0" }, "Country" : "Saint Pierre and Miquelon", "ISO2" : "PM", "ISO3" : "SPM", "ISO_Num" : "666", "ISO_Other" : "ISO 3166-2:PM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c1" }, "Country" : "Saint Vincent and the Grenadines", "ISO2" : "VC", "ISO3" : "VCT", "ISO_Num" : "670", "ISO_Other" : "ISO 3166-2:VC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c2" }, "Country" : "San Marino", "ISO2" : "SM", "ISO3" : "SMR", "ISO_Num" : "674", "ISO_Other" : "ISO 3166-2:SM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c3" }, "Country" : "Sao Tome and Principe", "ISO2" : "ST", "ISO3" : "STP", "ISO_Num" : "678", "ISO_Other" : "ISO 3166-2:ST" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c4" }, "Country" : "Saudi Arabia", "ISO2" : "SA", "ISO3" : "SAU", "ISO_Num" : "682", "ISO_Other" : "ISO 3166-2:SA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c5" }, "Country" : "Senegal", "ISO2" : "SN", "ISO3" : "SEN", "ISO_Num" : "686", "ISO_Other" : "ISO 3166-2:SN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c6" }, "Country" : "Serbia", "ISO2" : "RS", "ISO3" : "SRB", "ISO_Num" : "688", "ISO_Other" : "ISO 3166-2:RS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c7" }, "Country" : "Seychelles", "ISO2" : "SC", "ISO3" : "SYC", "ISO_Num" : "690", "ISO_Other" : "ISO 3166-2:SC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c8" }, "Country" : "Sierra Leone", "ISO2" : "SL", "ISO3" : "SLE", "ISO_Num" : "694", "ISO_Other" : "ISO 3166-2:SL" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000c9" }, "Country" : "Singapore", "ISO2" : "SG", "ISO3" : "SGP", "ISO_Num" : "702", "ISO_Other" : "ISO 3166-2:SG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ca" }, "Country" : "Slovakia", "ISO2" : "SK", "ISO3" : "SVK", "ISO_Num" : "703", "ISO_Other" : "ISO 3166-2:SK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000cb" }, "Country" : "Viet Nam", "ISO2" : "VN", "ISO3" : "VNM", "ISO_Num" : "704", "ISO_Other" : "ISO 3166-2:VN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000cc" }, "Country" : "Slovenia", "ISO2" : "SI", "ISO3" : "SVN", "ISO_Num" : "705", "ISO_Other" : "ISO 3166-2:SI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000cd" }, "Country" : "Somalia", "ISO2" : "SO", "ISO3" : "SOM", "ISO_Num" : "706", "ISO_Other" : "ISO 3166-2:SO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ce" }, "Country" : "South Africa", "ISO2" : "ZA", "ISO3" : "ZAF", "ISO_Num" : "710", "ISO_Other" : "ISO 3166-2:ZA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000cf" }, "Country" : "Zimbabwe", "ISO2" : "ZW", "ISO3" : "ZWE", "ISO_Num" : "716", "ISO_Other" : "ISO 3166-2:ZW" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d0" }, "Country" : "Spain", "ISO2" : "ES", "ISO3" : "ESP", "ISO_Num" : "724", "ISO_Other" : "ISO 3166-2:ES" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d1" }, "Country" : "South Sudan", "ISO2" : "SS", "ISO3" : "SSD", "ISO_Num" : "728", "ISO_Other" : "ISO 3166-2:SS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d2" }, "Country" : "Sudan", "ISO2" : "SD", "ISO3" : "SDN", "ISO_Num" : "729", "ISO_Other" : "ISO 3166-2:SD" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d3" }, "Country" : "Western Sahara", "ISO2" : "EH", "ISO3" : "ESH", "ISO_Num" : "732", "ISO_Other" : "ISO 3166-2:EH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d4" }, "Country" : "Suriname", "ISO2" : "SR", "ISO3" : "SUR", "ISO_Num" : "740", "ISO_Other" : "ISO 3166-2:SR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d5" }, "Country" : "Svalbard and Jan Mayen", "ISO2" : "SJ", "ISO3" : "SJM", "ISO_Num" : "744", "ISO_Other" : "ISO 3166-2:SJ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d6" }, "Country" : "Swaziland", "ISO2" : "SZ", "ISO3" : "SWZ", "ISO_Num" : "748", "ISO_Other" : "ISO 3166-2:SZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d7" }, "Country" : "Sweden", "ISO2" : "SE", "ISO3" : "SWE", "ISO_Num" : "752", "ISO_Other" : "ISO 3166-2:SE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d8" }, "Country" : "Switzerland", "ISO2" : "CH", "ISO3" : "CHE", "ISO_Num" : "756", "ISO_Other" : "ISO 3166-2:CH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000d9" }, "Country" : "Syrian Arab Republic", "ISO2" : "SY", "ISO3" : "SYR", "ISO_Num" : "760", "ISO_Other" : "ISO 3166-2:SY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000da" }, "Country" : "Tajikistan", "ISO2" : "TJ", "ISO3" : "TJK", "ISO_Num" : "762", "ISO_Other" : "ISO 3166-2:TJ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000db" }, "Country" : "Thailand", "ISO2" : "TH", "ISO3" : "THA", "ISO_Num" : "764", "ISO_Other" : "ISO 3166-2:TH" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000dc" }, "Country" : "Togo", "ISO2" : "TG", "ISO3" : "TGO", "ISO_Num" : "768", "ISO_Other" : "ISO 3166-2:TG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000dd" }, "Country" : "Tokelau", "ISO2" : "TK", "ISO3" : "TKL", "ISO_Num" : "772", "ISO_Other" : "ISO 3166-2:TK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000de" }, "Country" : "Tonga", "ISO2" : "TO", "ISO3" : "TON", "ISO_Num" : "776", "ISO_Other" : "ISO 3166-2:TO" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000df" }, "Country" : "Trinidad and Tobago", "ISO2" : "TT", "ISO3" : "TTO", "ISO_Num" : "780", "ISO_Other" : "ISO 3166-2:TT" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e0" }, "Country" : "United Arab Emirates", "ISO2" : "AE", "ISO3" : "ARE", "ISO_Num" : "784", "ISO_Other" : "ISO 3166-2:AE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e1" }, "Country" : "Tunisia", "ISO2" : "TN", "ISO3" : "TUN", "ISO_Num" : "788", "ISO_Other" : "ISO 3166-2:TN" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e2" }, "Country" : "Turkey", "ISO2" : "TR", "ISO3" : "TUR", "ISO_Num" : "792", "ISO_Other" : "ISO 3166-2:TR" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e3" }, "Country" : "Turkmenistan", "ISO2" : "TM", "ISO3" : "TKM", "ISO_Num" : "795", "ISO_Other" : "ISO 3166-2:TM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e4" }, "Country" : "Turks and Caicos Islands", "ISO2" : "TC", "ISO3" : "TCA", "ISO_Num" : "796", "ISO_Other" : "ISO 3166-2:TC" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e5" }, "Country" : "Tuvalu", "ISO2" : "TV", "ISO3" : "TUV", "ISO_Num" : "798", "ISO_Other" : "ISO 3166-2:TV" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e6" }, "Country" : "Uganda", "ISO2" : "UG", "ISO3" : "UGA", "ISO_Num" : "800", "ISO_Other" : "ISO 3166-2:UG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e7" }, "Country" : "Ukraine", "ISO2" : "UA", "ISO3" : "UKR", "ISO_Num" : "804", "ISO_Other" : "ISO 3166-2:UA" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e8" }, "Country" : "Macedonia, The Former Yugoslav Republic of", "ISO2" : "MK", "ISO3" : "MKD", "ISO_Num" : "807", "ISO_Other" : "ISO 3166-2:MK" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000e9" }, "Country" : "Egypt", "ISO2" : "EG", "ISO3" : "EGY", "ISO_Num" : "818", "ISO_Other" : "ISO 3166-2:EG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ea" }, "Country" : "United Kingdom", "ISO2" : "GB", "ISO3" : "GBR", "ISO_Num" : "826", "ISO_Other" : "ISO 3166-2:GB" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000eb" }, "Country" : "Guernsey", "ISO2" : "GG", "ISO3" : "GGY", "ISO_Num" : "831", "ISO_Other" : "ISO 3166-2:GG" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ec" }, "Country" : "Jersey", "ISO2" : "JE", "ISO3" : "JEY", "ISO_Num" : "832", "ISO_Other" : "ISO 3166-2:JE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ed" }, "Country" : "Isle of Man", "ISO2" : "IM", "ISO3" : "IMN", "ISO_Num" : "833", "ISO_Other" : "ISO 3166-2:IM" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ee" }, "Country" : "Tanzania, United Republic of", "ISO2" : "TZ", "ISO3" : "TZA", "ISO_Num" : "834", "ISO_Other" : "ISO 3166-2:TZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000ef" }, "Country" : "United States", "ISO2" : "US", "ISO3" : "USA", "ISO_Num" : "840", "ISO_Other" : "ISO 3166-2:US" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f0" }, "Country" : "Virgin Islands, U.S.", "ISO2" : "VI", "ISO3" : "VIR", "ISO_Num" : "850", "ISO_Other" : "ISO 3166-2:VI" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f1" }, "Country" : "Burkina Faso", "ISO2" : "BF", "ISO3" : "BFA", "ISO_Num" : "854", "ISO_Other" : "ISO 3166-2:BF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f2" }, "Country" : "Uruguay", "ISO2" : "UY", "ISO3" : "URY", "ISO_Num" : "858", "ISO_Other" : "ISO 3166-2:UY" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f3" }, "Country" : "Uzbekistan", "ISO2" : "UZ", "ISO3" : "UZB", "ISO_Num" : "860", "ISO_Other" : "ISO 3166-2:UZ" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f4" }, "Country" : "Venezuela, Bolivarian Republic of", "ISO2" : "VE", "ISO3" : "VEN", "ISO_Num" : "862", "ISO_Other" : "ISO 3166-2:VE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f5" }, "Country" : "Wallis and Futuna", "ISO2" : "WF", "ISO3" : "WLF", "ISO_Num" : "876", "ISO_Other" : "ISO 3166-2:WF" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f6" }, "Country" : "Samoa", "ISO2" : "WS", "ISO3" : "WSM", "ISO_Num" : "882", "ISO_Other" : "ISO 3166-2:WS" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f7" }, "Country" : "Yemen", "ISO2" : "YE", "ISO3" : "YEM", "ISO_Num" : "887", "ISO_Other" : "ISO 3166-2:YE" }
+{ "_id" : { "$oid" : "5288ca0fef5c88a8520000f8" }, "Country" : "Zambia", "ISO2" : "ZM", "ISO3" : "ZMB", "ISO_Num" : "894", "ISO_Other" : "ISO 3166-2:ZM" }

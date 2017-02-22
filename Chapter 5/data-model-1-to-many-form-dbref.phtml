@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>MongoDB</title>
+<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+</head>
+<body>
+<h1>data-model-1-to-many-dbref-approach-make-purchase.php</h1>
+<form method="post" action="data-model-1-to-many-dbref-approach-record-purchase.php">
+<!-- Customer -->
+<b>Customer: </b>
+<select name="lastName">
+	<?php foreach ($custList as $one) : ?>
+	<?php     echo '<option value="' . $one['lastName']. '">' . $one['firstName'] . ' ' . $one['lastName'] . '</option>'; ?>
+	<?php endforeach; ?>
+</select>
+<!-- Products -->
+<hr />
+<h3>Products</h3>
+<hr />
+<style>
+td {
+	width: 100px;
+	text-align: right;
+	border: thin solid gray;
+	margin: 10px;
+}
+</style>
+<table>
+	<thead>
+	<tr><th>Item</th><th>Product ID</th><th>Size</th><th>Color</th><th>Price</th><th>Qty</th></tr>
+	</thead>
+	<?php foreach ($prodList as $key => $value) : ?>
+	<tr>
+	<?php echo '<td>' . $value['item']  . '</td>'; ?>
+	<?php echo '<td>' . $value['_id']   . '</td>'; ?>
+	<?php echo '<td>' . $value['size']  . '</td>'; ?>
+	<?php echo '<td>' . $value['color'] . '</td>'; ?>
+	<?php echo '<td>' . $value['price'] . '</td>'; ?>
+	<?php echo '<td><input type="text" style="margin-left: 20px;" name="qty[' . $key . ']"></td>'; ?>
+	</tr>
+	<?php endforeach; ?>
+</table>
+<input type="submit" name="submit" value="Purchase" />
+</form>
+</body>
+</html>
